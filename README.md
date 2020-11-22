@@ -1,4 +1,4 @@
-# SpringMVC_JSP: Spring MVC SPA Web project
+# SpringMVC_JSP: Single page web application
 
 1. Single Page Application build on Spring MVC framework along with HTML5, css-bootstrap, javascript-bootstrap and JSP.
 2. User can login with valid credentials. Apply Spring security along with spring tags for authentication.
